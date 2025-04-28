@@ -17,7 +17,7 @@ A classic sliding puzzle game built with Python and Tkinter. Arrange the numbere
 ## 🚀 Quick Start
 1. Clone the repo:
 
-        git clone https://github.com/your-username/15-puzzle-game.git
+        git clone https://github.com/Kaifi1199/15-puzzle-game.git
 
 2. Run the game:
 
